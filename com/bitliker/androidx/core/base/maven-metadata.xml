@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bitliker.androidx.core</groupId>
+  <artifactId>base</artifactId>
+  <versioning>
+    <release>v1.0.0</release>
+    <versions>
+      <version>v1.0.0</version>
+    </versions>
+    <lastUpdated>20190725081758</lastUpdated>
+  </versioning>
+</metadata>

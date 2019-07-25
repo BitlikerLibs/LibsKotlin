@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bitliker.androidx.ui</groupId>
+  <artifactId>BitRecyclerViewUtils</artifactId>
+  <versioning>
+    <release>v0.9.5</release>
+    <versions>
+      <version>v0.9.5</version>
+    </versions>
+    <lastUpdated>20190725095311</lastUpdated>
+  </versioning>
+</metadata>

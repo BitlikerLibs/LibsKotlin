@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.bitliker.androidx.play</groupId>
+  <artifactId>BitVlcPlayer</artifactId>
+  <versioning>
+    <release>v0.9.1</release>
+    <versions>
+      <version>v0.9.1</version>
+    </versions>
+    <lastUpdated>20191129095651</lastUpdated>
+  </versioning>
+</metadata>
